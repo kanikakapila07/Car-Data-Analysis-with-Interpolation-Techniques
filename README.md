@@ -1,5 +1,4 @@
-The Auto MPG dataset is a dataset from the UCI Machine Learn-
-ing Repository that contains information about various cars, including their miles per gallon
+The Auto MPG dataset is a dataset from the UCI Machine Learning Repository that contains information about various cars, including their miles per gallon
 (MPG), cylinders, displacement, horsepower, weight, acceleration, model year, origin, and
 car name. You can access the dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data 
 
